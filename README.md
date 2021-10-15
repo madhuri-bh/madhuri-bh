@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Madhuri's github stats](https://github-readme-stats.vercel.app/api?username=madhuri-bh&count_private=true)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri-bh)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri-bh&layout=compact)
