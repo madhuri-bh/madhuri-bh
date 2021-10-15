@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Madhuri's github stats](https://github-readme-stats.vercel.app/api?username=madhuri-bh&count_private=true)
+![Madhuri's github stats](https://github-readme-stats.vercel.app/api?username=madhuri-bh&count_private=true&theme=dracula)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri-bh&layout=compact)
